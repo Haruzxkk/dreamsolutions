@@ -1,1 +1,211 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _lMGqZjadkPvj = a; end)); return(function(d,...)local a;local m;local l;local s;local o;local t;local n=24915;local e=0;local r={};while e<473 do e=e+1;while e<0x3a7 and n%0x37ca<0x1be5 do e=e+1 n=(n+1010)%28270 local f=e+n if(n%0xa3a)<0x51d then n=(n*0x1dc)%0x5f90 while e<0x2a6 and n%0x2ed6<0x176b do e=e+1 n=(n-176)%40934 local f=e+n if(n%0x263c)<=0x131e then n=(n*0x22e)%0x5a35 local n=76261 if not r[n]then r[n]=0x1 t="\4\8\116\111\110\117\109\98\101\114\95\68\89\90\85\70\85\97\0\6\115\116\114\105\110\103\4\99\104\97\114\81\83\104\85\103\95\66\88\0\6\115\116\114\105\110\103\3\115\117\98\73\109\84\119\113\74\101\106\0\6\115\116\114\105\110\103\4\98\121\116\101\116\119\66\97\114\66\81\77\0\5\116\97\98\108\101\6\99\111\110\99\97\116\116\81\107\116\75\101\110\108\0\5\116\97\98\108\101\6\105\110\115\101\114\116\74\70\98\80\69\84\88\68\5";end elseif n%2~=0 then n=(n+0x3cc)%0xa98b local n=60376 if not r[n]then r[n]=0x1 l=function(r)local n=0x01 local function e(e)n=n+e return r:sub(n-e,n-0x01)end while true do local r=e(0x01)if(r=="\5")then break end local n=m.byte(e(0x01))local n=e(n)if r=="\2"then n=o._DYZUFUa(n)elseif r=="\3"then n=n~="\0"elseif r=="\6"then a[n]=function(e,n)return d(8,nil,d,n,e)end elseif r=="\4"then n=a[n]elseif r=="\0"then n=a[n][e(m.byte(e(0x01)))];end local e=e(0x08)o[e]=n end end end else n=(n-0x2e)%0xa3b8 e=e+1 local n=41949 if not r[n]then r[n]=0x1 s=tonumber;end end end elseif n%2~=0 then n=(n*0x1f7)%0x1796 while e<0x151 and n%0x4c36<0x261b do e=e+1 n=(n*244)%33382 local a=e+n if(n%0x4a0a)>0x2505 then n=(n+0x381)%0xb507 local n=40085 if not r[n]then r[n]=0x1 m=string;end elseif n%2~=0 then n=(n*0x3bf)%0x5d5d local n=77495 if not r[n]then r[n]=0x1 end else n=(n*0x169)%0x3031 e=e+1 local n=21912 if not r[n]then r[n]=0x1 o={};end end end else n=(n-0xac)%0x1ac8 e=e+1 while e<0x218 and n%0xff2<0x7f9 do e=e+1 n=(n*414)%12112 local l=e+n if(n%0x41a2)>0x20d1 then n=(n*0xb2)%0x8729 local n=30759 if not r[n]then r[n]=0x1 a=getfenv and getfenv();end elseif n%2~=0 then n=(n+0xa1)%0x790c local n=64015 if not r[n]then r[n]=0x1 end else n=(n*0x2ca)%0x5f4f e=e+1 local n=30300 if not r[n]then r[n]=0x1 a=(not a)and _ENV or a;end end end end end n=(n+305)%38145 end l(t);local e={};for n=0x0,0xff do local r=o.QShUg_BX(n);e[n]=r;e[r]=n;end local function f(n)return e[n];end local m=(function(d,l)local t,r=0x01,0x10 local e={{},{},{}}local a=-0x01 local n=0x01 local m=d while true do e[0x03][o.ImTwqJej(l,n,(function()n=t+n return n-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""r=0x000 break end end local a=#l while n<a+0x01 do e[0x02][r]=o.ImTwqJej(l,n,(function()n=t+n return n-0x01 end)())r=r+0x01 if r%0x02==0x00 then r=0x00 o.JFbPETXD(e[0x01],(f((((e[0x03][e[0x02][0x00]]or 0x00)*0x10)+(e[0x03][e[0x02][0x01]]or 0x00)+m)%0x100)));m=d+m;end end return o.tQktKenl(e[0x01])end);l(m(75,"jlRpG7r2} %gSq8dg%"));l(m(39,"#p>!IFzNi<S=yvElv<=ilEviSlNlFv>lSFvEyi<<NF>ipuvFvp<Si=FE!iSSiIyi<Iz=Il>iEv==SENSI!>!l!yFFE!=NlFS>SwiENyFzEz>!=p!ElvpNEpIl!!<p!ES=S<izSEp>>Elv=S!ipzI!Nb=ElSvSiNNF<=S<Nv<Sz<>FlvFpFEzy%SyNvFF!>E=yA=iz=zS>i=><!v!<EizFi><ppvNy!i<z!Izpi/!SS<zzzFNp<l>yiFi!IFyIIp= Fv<=FIlzlIIEyypyyNFFE>Syp<SEzS<iSzEpEdEEySSiiiFF!>l<vNFiziizy>Ep=vNSyS<i!l>ylpIEiyF<lNzIz>IlzvyiFiLFS!<lNyCyp!oxEFzpylzv<S=>Fzv!lpSEI=lSJFl>v!<EyEiiv<>IFvS=FlvylSSNIIl!YlNv<yN<FFNI<>)ENzSIIiiz!!!pplr<yNSN<F!LEEF=NSN>plyI> vEv=l<ziG!i!!llEGS>iSFl>ySviSyy<<iFF>yiT>Ep=v<zN>>zpzElS=<FF<!EplSz"));local n=(-39862+(function()local r,n=0,1;(function(e,n)e(n(e,n),n(e,n))end)(function(e,a)if r>473 then return e end r=r+1 n=(n+908)%2477 if(n%1648)<=824 then n=(n-696)%40525 return e(e(e,e),a(e,e))else return a end return e end,function(a,e)if r>304 then return a end r=r+1 n=(n+699)%40653 if(n%1546)<=773 then n=(n-705)%32288 return e(a(e and a,e),a(e,e))else return a end return e end)return n;end)())local f=o.YbwlUnlZ or o.QFySvBnH;local an=(getfenv)or(function()return _ENV end);local t=4;local a=2;local l=3;local _=1;local function rn(u,...)local c=m(n,"f3raEmnRIH#K).%xKx3##RaE)3mx.KnIxm%aRx7)HmrxI)a%.ama%#n.xaIR3R#3aH)K.xICxHIn3a%aI%r)KHaH)IEx%Hn)YEErxI##a.KKmm.nm%%.R)#ma3K%Ex.Inmxr%nn.inIKKaE#).m#%R%+Rb%xRx3K#HaEKIE#.5xnHE3 H.r#x##)ar.^E).KRHxRH3x%H%aa)rmn.nnI%%3E#.r%KKEIEI)RnaKxRIPrIx3HK/aa)nmrR33aIK3I#mRKa3n)EH)Rnm%3r.%#HnrR##a3K)mRHmmmx2II3xHR)anr..n#xR.RR#33Hx3.KraaRxmV.%rn%aIxrp#ar#KmmQn%ORII3m#rHEr###aI)xmm)KRHx#Hc3##%)%mI%mRrxxI)3H%xRa)_mE.#nRxE)HIr5xHIx)#REam)xaRneaHORu3x#RrH)ax%KKn.x3I3HxaIKHEn.a#amx.xnIFIInxSK/a))Hm3..x)HR3n#aa1gLKraI.nmr%3Rxx.HRxa#aa:K%E#RaNHI.3##RRm?R#rr#Kn3m)#IEx%rHK)Ea.Om.aI%nnRx.IR3KaI)Hmr.xn)naxKI63Wr..aER.En3aK%#RRpaRm3EHxrI#HmR%rnnxIR%3RRHrR#xa))#ne)UI6u.HIKam;).m#%R)HRExaI.x3#aar)EmwK)mKxmIn,nI.3)EE%Em%%KRIEI=3I.3r#rr.)Imr)%n%xuIaNxI33)K%a%.GmnR)3mHnraK*IFa)K)Em%mna.xIRJ)HHrKK3.HI.xaI9*.%%Ix3.KE%%)3m3%3nR#xHad##H%a)XEx.HnK%HRE3rHD3)nmEH)In,%3rn%}Ix3)#I3#KHEEI%m3KK3mKnrxK)EHrH))nax3nx6EIm.3#ra*RIar%3RmxmInbK#3aEK).#R3xEI3^%%.H.raHmaE)%mx.xnnxm3.KnaR)Em3r#.#mH%HRK6.HaG.#xER))mrR#1%HEr3#%R%aR)am6.Emxx.3n#Ra^K.E#rm)mm%%agK#RrmKraxa3)RER.mn)xrn.3)#Ern):rm..nrxrix#IrHKnEa3a.rm)%HnHxxHr03HHa3)REEn)l3In3a#1Rh3KKaEL)aEx.%RaHmrH#xa))HHKm3.3mxxnR)6Ia3)%EK.Inmmn%IRxx#II3x#mr0)xmR.HRa.IHG3m#m)rma.)nHxn)HR)x%H3KRE#.3m%%K%nRExmIK3m#H)nn3%zn.x#.sIr3RHRr%K3aR)KmK%mn.xRIR3ma..nmR%ER3E3x.R.}n#nrE#aEr.EmR%xIEH#r%KEE3)%Hxm3%Inmx%I%l.an)#mw..n#ERx^Rr3RH;r#KI.rnI%)RH_n%/Ixra#aaEKHEx%rn#IIrr#rrxK)#.ax.nm3.xRnx)Rrrb#3aR)3mmRr3aI)3H#nInr3KHm_)Inn#3m%P#HK3%#maU)KzHKRRR7mR%3naR)%m3.%nKax%#InxrH3rKK)a))amrR#raHEr3#%#aa))Hmr%ranKIEm3nHHrxKaE).R3x%KRSVnH#%3K3r..rE).)nmxHR%#RE3)3E%.K)Rn3)xmnW.Iar{#EaE)Ia#%.n%H3rK#KaI)mHmm3.3m#x#RIxaHr3.KKa..Am)RK33Hmrr#xRxaKKKEE%Enr.%RI>na3)aEK.InmmK%.Ir^rHHKaEK).m#%R)TRzx3R)3EImr%KDmm)%nIIa3xH.r#KRHVEFKxEx%3RaxHRrr3HKa#K)mE.HmxIRr3#3r%KKE%.mnr%xR)33HnraKkImax)EEm.xn.xER)#IarKxE).Hnnxa.HE.H#a)KEE3)%#3m3%ann.mIm3K#HaRHaEm.ana%In8FEn%rE#nEm.r%)Ir/nHarGxR#xaE)Ea3..Rr%.IR#raaK)EH.n.#m3%nR%H#rEK3a%)KmI%mnra%I.3H#naa)Fm).#nRxEI33%HKrHKmEr)xm)%HR)rRHb3%##aK)Emr.%n)xIIHmaHxr)KHE#.an3%.R%EIHEr3#%EH)Imn%rI3EnIH3R#aamK.E#.RRnx#R%L.HIrKKrax))mHxrRa_3I.3)#Ram)3n%%#nIxnIr xH)r)Knmm%mm.%.RRwmH33%#KaI.)mr%An)x)In3m#gaa)3ER.mn3xKRKDHHmra#xEel#mn%aRsU#I#3I#EamxxEK.InmT?RxX.HHmnt3EQ)%m#%KRECaI%3K)#am)rEx..nHxnIa3aH.r#KREE.#m%%KRIEIx#I63%H#rH)REm.xx#H33E#3r%xxK3EI)mm%%#RRxKInrEa..nmR%ER3R3xtI)%I#3rKKIEr.Hm)%xRKH#rRKEE3)%nx%IRmvrIxnr#Han)amZ..n#xRIEE3H%rKKIEm.rmx%)RH3nHarA#.aK)RmE%3RE3xII3m#ramK)E#.nnEx{I3EKHRrEK3EE)KmH%mRnELI)3H#na%)BE%.#nROEI3y%HKrHKmEr)xR)x%RnMaH!3.##aH)Em33nnKxIIm3EHxr.KHEn.nno%.R#SRHEr3#%aKxImm%rnxx.IH3n#aaj).E#.RnExaR%<KHIEm)6ax))mH%nRa_3I.rz.3aE)3E%%%nIxnIrAxH)r.xREa.Pm.x.RR=mH3aSxmaI)nmr%rn)xHIn3a%2r.K)ER.En3%%RK^I.KrrKra))Hmn%aROx.%33R#ma3)3EK.Hnmxr#37)HHrnKEE}).m#%)REq3I%3KKram)rEx3x)#nE)nRx>HHnr>#Ianm%x3RI8mHrII3)H#rx)mman.BrIR3E#3R>3)KKa#Krm?%%R.HnrnKca.)##emRKrx%HH3I#mar&nK3E.##mIxaR>xxHm3I#ra))xmKRR(rIx3)#HEn)amY..R)aKIE3aH%r.KIEm.rRxUIRH9HHar9#.ax)RmExRn%x%II3H#rrxK)EH.%naxrR.-#HRrIK3Er.)mI%mRrQ)I)3##nma.mE.%3nRx#I33rHKa#2REr.Im)%)Rn^aHt3.%naR)Km3%RnKx#Im3I)ar))PEn.%nV%%R#&IHErm%xaK)Imm%.nxx.IH3#%Ea/K.E#%EnExrR%/K.KrmKHax).mH%nRa3w)p3##.aE)rE%%rnIxKK)SxH%rHKKEa.3m.%)RRzI.r3%#KaI)#mr%-n)xH#I3a#8r.KKER.En3xrRK/IHmrr)Ea))HmnrH.HnK%%m.X.#aa3Kx3K).mK%KRJ%II)xn#)r%).m#REF#I%3K#IRxaRK)E)KHnmx#Rmkxr#KxEE.3m%aa%.RrxaI.3K#rr#ma%Hn.x#IRmRSHIxr.#HaI.nmE%%5HHnraKga..HmR%ER3x%%-3I#marKxE).HnnxaHE>.H#rRKEE3)%mK%IIm+rIx3)##an)amkx.IExRIE33H%rKK)Em.IR#%)RH>n#3rG#%a#)RmE%m#xxKII3mKwrxK.EHxnRIx1R%M#HRrEKra%..##%mRmxxIx3H#naa)YIH.#nIxEIEe%H.rIKKnn)xm.%HIrdaH33.#KaR)IHr.%nKxIH33r#Yr)K.IR.and%.II_RHmr3#%EK)ImR%rR3x)IH3nKanaK.EK.Rnnx3IXpKHIERKrax))m#%nRa9jIx3##RaE)3m%.KnIxm%nRI*xI#3I#xamK^mx%RnHUanIr&#mammr%%n)xHInRI/%I%3)KaaHKEna%Kn.<Rn)rE#HaHmR%aR(x.I#r0#Ea3K%m3x)nmxrRx=xHHrRKaE3).m%rIRE,3I%3%#Ian)rma3.nHxnIa3nH.rKKRmn3Km%%)RIFRHr3x#)aH)Kma%3n.xKIR3m#3arx)EI.mnrxRR)=#Hnamx#a.)KmR%mR3x%IK3I##ar)kE).#nnxEIsM.K)rRKEE3)xmK%IRm}xIx3)#Han)%ml..n#EK%HR.?aHKrRKREn)vm-%IpnK3rC#.a#3R)amE.Rm%%HIE)r#3r3K)E#)Enm%xnKxKIm.3#3a#)m9m%mRE%xR%3H#nrxE.%anRxEI3m3GaIHrR#aar.9E%%IuaHn3.##aRLRHRmX))nm%#3rKxr)KHEnr3)mmK%rR)Y3Ir)%#KaR)IEK.rm.xIan3nH3rH){aIIEmn%)n%{RHarnK3r.K.ERRa3gI.3##RR)anKKa).nnE%KRa%%HIrmKRrwK%m)%KjRH33%#KaI)mmr%R#)xHI%3a#yr.x%K)En)rnr%ERRGarrK.a))HmnrH.HnK%%m.c.#aa3Kx3K).mK%KR9HHr#KaE;).HxmH%nRdI%r8#Iam)r#aEm..nr%I3J#Er#KREE3E).mH%)n#g6Ha#)ax)nma%wKKnHxKR.XR#RKKEI.mnr%xH)}HHnraK E.)#mR%ER3x%IK3I)mE!KxE).HnnxaIaW.#Tm3KEE3)%R#%IRn}rIx3)#.RR)am-..IHxRIm33K%EpKIEn.rmx%)Ir2n#mRr#.a.)Rm#%3n%xKIIm3#raiK)E).nnmxCIar%HRrmK3EI)KmH%mRaxxH<m##naa)VmR.#nIxEImExHKrIKmn3)xm.%HRn3aHS3%##aI)Em3.%R3rrIm3aHxEEKHER.anQ%.R%EIHEr3#%ma)Imn%rIxt#IH3R#aaJK.m>.RnEE3R%2.HIrnKrax))nHxpRaB3I.3%#Ran)3E%%)nIxnIr33H)rHKnna%;m.%KRRwmH3rK#KaI)Hmr%rn)xHIn3n#em.)EER.Rn3xHRKLHHmmr)qa)))mn%xR^xxI#ERxra3)3EK%4nmxHRx^)x_rnKEEd.4m#%IREbm)x3K#Iam%3Ex..nHxnHa3OH%r#KHEE.3m%hKK.LmHa3x#.aH.ama%*I#x#I#3E#3r%K%EI2mRI%xRxYH#3raK#a.x#mI%EREx%HR3I##ar%xmx.HnHxaII0.#3rRKEmT)%m)%IRI{rHp3)#HmI)am;..nKxRIE33#arKKIEm.rnR%)RH{n.KHm3#HKam)aE#.rxKH33m#rrxxxK3aR.mm3%WR%x)HnK3ma)KmI%mKInIx#R.%)H)ar)TE%##m)%#R#xxRR3KImaKK.m)%HcaHH3.##aR>%)nEK.KEIxEIH>EH%K)En.an0%.R#bR%.n3#%aK)Imm%rIax)IH3n#aE2K.E#.RnEx3R%{KH%ExKrax))m.%nRE,>I.3##KRm)3E%.Kn)xmIa=xH)EKKnEa.Sm%%#RR>EH3nE#KaI)mma.xn)xHInEa#hr.K#ER.En3%%RK3IHmrr#xa.)Hmn%aHq(KI#3R#Ea3K%E..InK3)RxO)HHaHKaE3).m#%RRIErI%3K#IEI)rmg.)IH}KIa33H.r#KRER.3RSa.RIJIHrrt#)aH)nma3)n.xKIR3R#3akKKE%xHnrx}R)3HHnrEKha%)#mKrmR3x%IKrI#maaKxmP3#nnxaIYr1H#rIKEn3.)mK%#Rm&aIxr+#Hanxam_.xn#xHIE33H%mKtnEm.amxxlRH7KHarB)xa#)RmE%rn%xKII3R#rrxK)EH%anaxcR.n%9=HR3r#MaRK.aa%3nrxIIr3naa))E..#nRmH%xnxx.HE3#H>a%Kxmm.xRaH33.##aR)EmH.%nKxIIKa)Hxr)KHEK.an3%.R#0RHInr#%aK)Im#%rRPx)HKnJ#aa3K.E).RnEx3R%3vHIrnKrEN))m#%nRRE3I.3##RaK)3Ex.KR#axIr3kH)r#KnEa.9m.%xRRwmH33x#KaH)mmr*3n)xHIn3E#Xr.K#mr.En3%%RK3nHmrr#xIar%)#rR.mRb%.R)3rHm3xKHE).IxrIK<)HHrn7RKrr%)Im#%Enrh}Ik3nHIaKmr.)nHxnIa37H.r#KREn.3nR%KRI2m.aIrZxH%aH)nEx.xRaIR3)#3r%KKI#an.mmE))n#OIHRK,Ea)#mR%EKHmxxHR)33HRKxmr.Hnnxa%HR.xKH1rnKE.3mK%IRm8rIx3)HHRm)amm..n#xR)IRne3I)rEEm.mmx%)RHExunn3#xa#)RmE%3#KxKII3mKERaK)EK.nnKxCR.d#KRE(K3E3)KmI%mRaxxI)an#nan)Xm3.#nRxEI333HKr#KmEr)xn!%HR#3rHN3.##R3)Emr.%IKV.Im3HHxarKHm3.aRraxR#3ZHErR#%aK)Imm3%nx:aIH3x#aarK.mSxKnExIR%3KHIrnKrE2))m.rRRaC}I.r##Ram)3n%xunIx)Ir3mH)aEKnmmrrm.xaRR1%H33%#KaIv3mr%nn)hrIn3m#waa.%ER.Kn3x%RKeHHmra#xEz&#mn%aR7,.I#3I#EamxxEK.Inm3aRxy.HHr)..Eb)%m#x%REjrI%3K#IaH7aEx.)nHu.Ia33H.r#)REE.Im%%KRIumHraxK#aH)%ma%nn.x)IR3E.#r%)rEI.KnrxRR)aH%EraKna.))mR%.R3;r))3I#marxHE).#nnxaH v.#3rRKEE3)%mK%I#zyrHn3)K2an)Hm,jaKKxRIK33K.rKKHEm.nmxxLK#9nHar,))a#)ImE%3R%xKIx3m#rrxK)EH.nI%x!IEh#H%rEKRa%.KIK%mRIxxI%3H#.aa)EI%.#nRxEKKq%H)rI%mH_)xnr%HRI-aHa3.#%RI)Em3.%#mxIIn3rKxE3KHE..ann%.ImZR#nRa#%EE)Im#%rnxx)IHmr#aaRK.ma.Rnnx3IEamHIr)KrRH))m#%nRau=H3mK#RaE)3II.KnHxm#r3.H)aAKnEH.8nE%#R.r%H3rm#KRr)mma.xn)xHI#mE#Xr.K#I3.Enr%%HK3nHmrH#xEr)Hm.%aRnrRI#3I#EnrK%E).InmxrIaE.HHrnKaR3).mK%RRE33I%ra#Iam)rEx.)IH-EIa3HH.a3KREn.3m%rERI,.Hrrn#)Er)nIar%n.&3IR3n#3aRKKE)3nnr%xR)EaHnrEKQa..#mR%)R3x%IK3I#mar%#E)%3nnxKIF3EH#E.cmE3.nmKr3RmXaIxri#Ha#YEmS..n#aTIE3rH%rK)IEm.#mx%)RHbnHar;.Ia#)xmE%Hn%ArIIrm.mrx)aEH.InaxIR.X%.IrEK3a%kmmI%nRrrx.#3H#.aa)rE...nRx#KKN%H.rIK#Er.em)%KRn5R.33.##aR)Hm3.xnKxI#R3rHxr)K#En.an8xIR#&RHEr3KnaK)Immrn%En%%#I#2)HxrKE#..nEx3R%mHiRHH3K#mEmm)%nRaZUI.3##Ra):3E%%InIxmIrmxoKH)3x#na3))d#)#nmx.HE&)aI.mmr.xn)E3xKI7l3HKrHKAaIKam.%#R)%mIar3K8)HnE%aRsx..9IT3rHmFEKEE#.Inn)rRE+rHr3REU.nm#%RREEExnR)3#Hnrm)aE3.KxnII3FH.r#CK#.Em)#mjRIVKHr3x#)R)s))mE3.#mxIRaE#3r%KKHEEE)mmh%IRr3{IE3aH%aHRREK%nmxx.R)wnHnr9n)a).mni#dIPVxI#3HKEE3)#%IR)JrIx3)%)#ma3)EEr.InKIE33H%rKKImK.rmx%)RH3nHar0#.a#)RmE%3I%=HII3m#rrxK)m=.nnH3ER.?#HRrHK3ax)KmH%mRnEtI)3H#naI)<E%.#nKamI3S%HKa.KmEa)xR)x%RnwEHh3.##a.)EnaaWnKxKIm3RHxr)KHEncxnd%%R#=#HEra#%E3%)mm%anxjRIH3R#aa3K.E%3InEx3R%3nHIrnKrEaX.mH%nRa3mI.3K#RmE)xE%.)nIxmIr3EH)EH.)Ea.3m.%KRRU.H33%KaaI)nmr%yn)xHIn3a#Er.KKER.nn3%%RKrIKMrrK>a))#mn%mRNx.H.3R#Ra3K%EK.KnmrrIHO)H)rnKKET.3m#3RIaO3H33KKaam))Exz)KRxnIn3-H%r#K#EE.3Km%KRHgmHm3x#.aH)nRm%Fn.x#II3E#3r%K.EI.mnr%xIm(HHnraxa#mrK)HEm.ERrx8I##mEaKxE).H)Rnax8RH3aRTrrKRaR)%m3.RnKxKIm3.#x)EmD..n#xRHn33H%rKKImm.rnS%)RH6nHar8).EI)Rmm%3nxxKIH3m#ImaK)E#.nnIxPR%k#HIrEKmRx)KmI%mRRxxI.3H#nmm)ME..#nIxEI3v%#3E)KmEr)xnE%HRR=aH33.#%RI)Em3.%RaxIIn3r#an.KHEn.an.%.RK*R#nnK#%a.)ImR%rnxx)IHmn#aaaK.EK.RnEx3R%m3HIrHKrEQ))mH%nRamRI.3)#RaI)3Ex.Kn)anIrsxH)a#KnEE.-nxaERRknH3r0#KaI)mmr3xn)x)In3E#Yr.K#ER3#n3xrRKZIHmrr#xa)rPmn%mRX13I#3I#Ea3%XEK.InmxaRxD)HHrIKaE;).m#%%RE23I%n%3)H#arKxE3).xnI#3GH.r#x#Kaax))ms.KRHHrrY#)aH)nmm%-n.x#IR3.#3r%KKIKa.)an3..n)-#IIrra..nmR%ER3R3xcI)%I#3rKKIEr.Hm)%xRKH#rRKEE3)%nn%IRm+rIxr)#Han)am2..n#xR#E3xH%rKKIEm.rny%)Rxa;Har&#.ax)Rmm%3n%xKI)mn#rrxK)E%.nnEx?I3EKHRrEK3EE)KmH%mRrr3I)3H#naE)^E..#RHa%I3txHKr#KmEr)xm)rHRnqmHy3.##aR)Em3rEnKxKIm3aHxr)KHEnxxnO%%R#g#HErr#%aK%3mm%rnxx.IH3n#aaxK.E#.RnE63R%(KHIrmKrax))mx6#Ra7ZI.3%#Ram)3Ex.Kn)anIr6xH)r.KnEE.-n3rKRR_EH3ra#KaH)mmr,3n)xHIn3E#hr.K#ER3#n3%%RKUHHmrr#xa)xHmn%aR6x.I#3R#Ea3)%EK.InmxERx()HHEn)3E0).m#%RREZrI%aKK.am)rEx.)nHxIIa3n#mr#KHEE.3m%%)RI2nHr3x%%aH)nma%an.x#IR3E..r%KKEI.Rnrx3R)GH)nraKea.)KmR%ER3x%#.3I#mar)(E).HnnxEI_J.H#rR)3E3)%mKE).%RmxYR%3mHK33KxE7.nncxE33H%rKKIEm.Imx%)RHwn#ar}#.a#)RmE%3n%O3Kr3m#rrx)3EH.RnaxkR.N%.IrEK3a%.WmI%nRr33.n3H#naa)3E..#nRxEInc%HKrIKnEr.Wm)%HHIJaHh3.#KaR)Em3n3nKxIIm3r).r)KHEn.EnO%.R#3HHHr3#%aK.Kmm%rnxw%#m3n#aa:%#E#.RnE3RI#YKHIrmKIax).mHx.Ra_E)%3##RaE)RE%.)nIxH)acxH)rHK.Ea.3m.%#HH0EH33%#)aI)mmrx3KnxHIn3a#mr.K#ER%nKE%%R)0IHHrr#xa)%Hn)%aR3x.IK3RKQa3.Un3.InIxr#KF)HHrnKaER).mK%RRR83I%3K#IEx)rEx.)nHxnIm3eH.a.KREE.3mx%KR#+m#Ea)#)a#)nmR%8n.x##RrH#3rxKKEH.mI.%xI%E_HnrnKXnE)#mR%ER333IK3H#mamKxE%.HRI;#IcXxH#rKKEE3)%RKx&RmZEIx3%#Hn3)anr%nn#xKIEr#H%rKKIEm.Hmx%%RH_#Harr#.E))HmE%En%xxII3m#rEx.3EH.HnaxaR.amHRan.Ha%.NmIxHRrxxI)3H)aaa)aE..xnRxnI3r%KRrIKHEr.<m)3#Rn?aHa3.#xaR)Hm3.%nK3II.3r#mr)KHEnxInS%.IEDRH)r3#%aK).mm3rImx)H33nKxaw).E#LRKrx3In>KKrrmKEaxx)K3%nRK2GKx3#KxaE)3na.KR3xmIrPxH.rH%nEn.Pnn%#HRUEHE3%KKmm)mm#.xI3xHIx3a#6aEK#m7.En3%%R)TI)mrR#xEm)HRn%aRax.H#rR#EaHK%R3.In%xrRxEIHHr)KaEI).m)%RHEaxI%rr#IaK)rR%.)RKW.Ia3HH.mrKREE.3m%=RRIL)HrrI#)aK)nRax2n.ZrIR3K#3EEKKEI%)nrxHR)(HHnrRK4n..RmR%%R33#IKrH#mnr.rE)%ann33I_3MH#mRerE3.ImK;#RmrmIx3%/ran)%mb%En#xRIEr3K%rK)rEmx3mxxRRH4nHEr}Kma#.3mE%an%3KHE3m#Krx)aEH%)naxPIx*##rrEK3a%)xmI3mR.xxHR3H)raa).E.W#KmxEI)l%KHrIKIErxx##%HI3LaKr3.K)aR)n##.%RRxIIH3rHxr))Hnn.anK%.HH;R#&r3#%EI)Im%%rR#x)IK3n)aaxK.mE.RnKx3HEQKHIrRKrEK))mH%nRR_{K.ar#REG)3n#.KI)xmKrm.H)amKnn3.LnF%##RmrH3r##Km#)mIr.xRrC3Inrk#XaRK#EI.Enr%%RK3HHmrr#xEC)Hmn%aIJr#I#ra#EmJK%mI.Inm,nRx3nHHarKaEr).R#x.RE/)I%rr#Ina)rn3%lnHDaIa3HH.r#KREE.Rm%xnRI3rHrr3#)mH.Hma%)n.83IRrr#3r%)rEI%anr%xR)*KHnmax%a..ImR}1R3rIIK3%#.ar)%E)%rnnxEI*3bH#rR)mE3)%mK%)RmtrIx3)K#an)am_%rn#xRIE33#xrKKIEm.rmx%)RH3nKarLKKa#%nmEx n%xKIx3m#%rx)#EH.Ina3CIE ##ErEKIa%.HmI%mR%xxHK3H#naa)rE.X#R#xEH2(%KRrIK.Er.mnE%HInFaHm3.#KaR)Rm3.%R)xIIm3r#ar)KHEn.aR3%.R#YRHHr3#%aK)Inn%rnxx)IH3n#aaX).n..RRax3H.QK#IrmKrm)))nn%nIrBqIx3##RE#)3m).KnIxmIr5xH)r)Knmr.hn)%#RRUEHaRR#KEI)mmE.xn)xHHI3##5a.K#E%.En3%%I33WHmar#xER)HmR%aREx.I#rI#Ea3K%mH.InmxrRx3.HHrnKaEx).m#%RRE3rI%3K#IaR)rEx.)nHJRIa3gH.r%KREE.3RlxrRI3mHrrH#)aH)nmH%In.*#IR3m#3rxKKEK.mnr87R)pHHna3Kja.)#mRxmR3x%IKrR#marKxE)%#nnxaIg33H#rRKEmarEmKxIRmrKIx3)#Han.amv%.n#xRIE33H%a.))Em%amxxRRHZnHarnKma#.HmE%Rn%x)II3I#rrx).EH.nna,>R.0#HRrE)ra%)KmI%HRrxxI)3HKRaa)VE.%KnRxEI3rt#rrI)REr%)m)%HRn2HHI3.K)aR)Rm3.xnKxKIm3rKJr)KHEn%an{%.R#VR#mr3#%aK))mm%rnxx)H#3n#aaC)%E#.RnESaK.=K##rm.aax))mH%nI3:5Hx3##RaE)3E%%3RhxmHmvx#ErHKREa.3m.%#IISEH33%K.aI)mmrx3)WxHHH3a#3r.K#ERxERa%%I%4IHHrrK%a)%HnR%aIax.H.3RKxa3)Ema.IR#xrRxD)H#rnKEEb).nK%RRE,3H%3K#Iam)rI).)R)xnHI3TH%r#.Rmm.3R3%KR)*mHI3x))Ea)nnn%-IYx##r3E#RanKKm..mn%%xR.CHHRraK*E%)#mR%ERxx%IK3I#mm%Kxmx.HRKxaI3F.H#a%KEE3)%m)%IRm!r");local e=0;o.XMgZJQHA(function()o.KbgLQujm()e=e+1 end)local function n(n,r)if r then return e end;e=n+e;end local r,e,h=d(0,d,n,c,o.twBarBQM);local function m()local e,r=o.twBarBQM(c,n(1,3),n(5,6)+2);n(2);return(r*256)+e;end;local b=true;local b=0 local function y()local n=e();local e=e();local l=1;local a=(r(e,1,20)*(2^32))+n;local n=r(e,21,31);local e=((-1)^r(e,32));if(n==0)then if(a==b)then return e*0;else n=1;l=0;end;elseif(n==2047)then return(a==0)and(e*(1/0))or(e*(0/0));end;return o.osSOnHnS(e,n-1023)*(l+(a/(2^52)));end;local k=e;local function p(e)local r;if(not e)then e=k();if(e==0)then return'';end;end;r=o.ImTwqJej(c,n(1,3),n(5,6)+e-1);n(e)local n=""for e=(1+b),#r do n=n..o.ImTwqJej(r,e,e)end return n;end;local b=#o.tDfgmRBj(s('\49.\48'))~=1 local n=e;local function ln(...)return{...},o.SuhpYhdX('#',...)end local function en()local s={};local n={};local d={};local c={s,d,nil,n};local n=e()local f={}for a=1,n do local r=h();local n;if(r==1)then n=(h()~=#{});elseif(r==3)then local e=y();if b and o.rlgrWyox(o.tDfgmRBj(e),'.(\48+)$')then e=o.MddGXCOW(e);end n=e;elseif(r==0)then n=p();end;f[a]=n;end;c[3]=h();for n=1,e()do d[n-(#{1})]=en();end;for c=1,e()do local n=h();if(r(n,1,1)==0)then local d=r(n,2,3);local o=r(n,4,6);local n={m(),m(),nil,nil};if(d==0)then n[l]=m();n[t]=m();elseif(d==#{1})then n[l]=e();elseif(d==u[2])then n[l]=e()-(2^16)elseif(d==u[3])then n[l]=e()-(2^16)n[t]=m();end;if(r(o,1,1)==1)then n[a]=f[n[a]]end if(r(o,2,2)==1)then n[l]=f[n[l]]end if(r(o,3,3)==1)then n[t]=f[n[t]]end s[c]=n;end end;return c;end;local function nn(r,n,e)local a=n;local a=e;return s(o.rlgrWyox(o.rlgrWyox(({o.XMgZJQHA(r)})[2],n),e))end local function b(g,c,h)local function rn(...)local m,k,z,en,u,e,s,nn,j,y,p,r;local n=0;while-1<n do if 2>=n then if 1>n then m=d(6,75,1,2,g);k=d(6,22,2,74,g);else if 2~=n then z=d(6,31,3,22,g);u=ln en=0;else e=-41;s=-1;end end else if n>=5 then if n~=6 then r=d(7);else n=-2;end else if n~=-1 then repeat if 4~=n then nn={};j={...};break;end;y=o.SuhpYhdX('#',...)-1;p={};until true;else y=o.SuhpYhdX('#',...)-1;p={};end end end n=n+1;end;for n=0,y do if(n>=z)then nn[n-z]=j[n+1];else r[n]=j[n+1];end;end;local n=y-z+1 local n;local d;local function y(...)while true do end end while true do if e<-40 then e=e+42 end n=m[e];d=n[_];if d>44 then if 68<=d then if d<=78 then if d<73 then if d<=69 then if 69>d then local d,k,b,p,o,c;for b=0,4 do if b>=2 then if 2<b then if b>1 then repeat if 4>b then d=n[a]c={r[d](f(r,d+1,s))};o=0;for n=d,n[t]do o=o+1;r[n]=c[o];end e=e+1;n=m[e];break;end;e=n[l];until true;else d=n[a]c={r[d](f(r,d+1,s))};o=0;for n=d,n[t]do o=o+1;r[n]=c[o];end e=e+1;n=m[e];end else d=n[a]c,p=u(r[d](r[d+1]))s=p+d-1 o=0;for n=d,s do o=o+1;r[n]=c[o];end;e=e+1;n=m[e];end else if b==1 then d=n[a];k=r[n[l]];r[d+1]=k;r[d]=k[n[t]];e=e+1;n=m[e];else r[n[a]]=h[n[l]];e=e+1;n=m[e];end end end else local o,h;for d=0,5 do if 3>d then if d<=0 then o=n[a];h=r[n[l]];r[o+1]=h;r[o]=h[n[t]];e=e+1;n=m[e];else if d>=-2 then for f=23,53 do if 2>d then r[n[a]]={};e=e+1;n=m[e];break;end;r[n[a]][n[l]]=n[t];e=e+1;n=m[e];break;end;else r[n[a]][n[l]]=n[t];e=e+1;n=m[e];end end else if 4<=d then if 4<d then o=n[a]r[o](f(r,o+1,n[l]))else r[n[a]][n[l]]=n[t];e=e+1;n=m[e];end else r[n[a]][n[l]]=n[t];e=e+1;n=m[e];end end end end else if 70>=d then r[n[a]]=(n[l]~=0);else if d==71 then for n=n[a],n[l]do r[n]=nil;end;else local e=n[a]local a,n=u(r[e](f(r,e+1,n[l])))s=n+e-1 local n=0;for e=e,s do n=n+1;r[e]=a[n];end;end end end else if 76<=d then if 76>=d then c[n[l]]=r[n[a]];else if 78~=d then if(r[n[a]]~=n[t])then e=e+1;else e=n[l];end;else r[n[a]][n[l]]=n[t];end end else if 73<d then if 74~=d then local n=n[a]r[n]=r[n](f(r,n+1,s))else r[n[a]]=h[n[l]];end else if(r[n[a]]==n[t])then e=e+1;else e=n[l];end;end end end else if 84<d then if d>=88 then if d<89 then for d=0,6 do if d<=2 then if 1>d then r[n[a]][n[l]]=n[t];e=e+1;n=m[e];else if d>1 then r[n[a]][n[l]]=n[t];e=e+1;n=m[e];else r[n[a]]={};e=e+1;n=m[e];end end else if 5<=d then if 3<=d then repeat if 6~=d then r[n[a]][n[l]]=n[t];e=e+1;n=m[e];break;end;r[n[a]][n[l]]=r[n[t]];until true;else r[n[a]][n[l]]=r[n[t]];end else if d~=1 then for f=22,92 do if d~=3 then r[n[a]]={};e=e+1;n=m[e];break;end;r[n[a]][n[l]]=r[n[t]];e=e+1;n=m[e];break;end;else r[n[a]]={};e=e+1;n=m[e];end end end end else if d>88 then repeat if 90~=d then r[n[a]]=b(k[n[l]],nil,h);break;end
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+local player = Players.LocalPlayer
+local savedPosition = nil
+
+local Window = Rayfield:CreateWindow({
+   Name = "DreamSolutions",
+   LoadingTitle = "Loading Interface",
+   LoadingSubtitle = "Steal Games",
+   ConfigurationSaving = {
+      Enabled = false
+   },
+   Discord = {
+      Enabled = false
+   }
+})
+
+local Tab = Window:CreateTab("Movement")
+
+local noclipToggle = Tab:CreateToggle({
+   Name = "Noclip",
+   CurrentValue = false,
+   Flag = "noclip",
+   Callback = function(Value)
+      if Value then
+         enableNoclip()
+      else
+         disableNoclip()
+      end
+   end
+})
+
+local jumpToggle = Tab:CreateToggle({
+   Name = "Super Jump",
+   CurrentValue = false,
+   Flag = "jump",
+   Callback = function(Value)
+      if Value then
+         enableSuperJump()
+      else
+         disableSuperJump()
+      end
+   end
+})
+
+local invisToggle = Tab:CreateToggle({
+   Name = "Invisibility",
+   CurrentValue = false,
+   Flag = "invis",
+   Callback = function(Value)
+      local char = player.Character
+      if not char then return end
+      if Value then
+         applyInvisibility(char, true)
+      else
+         applyInvisibility(char, false)
+      end
+   end
+})
+
+local positionSection = Tab:CreateSection("Position System")
+
+local saveBtn = Tab:CreateButton({
+   Name = "Save Current Position",
+   Callback = function()
+      local char = player.Character
+      if char and char:FindFirstChild("HumanoidRootPart") then
+         savedPosition = char.HumanoidRootPart.CFrame
+         Rayfield:Notify({
+            Title = "Position Saved",
+            Content = "Location saved successfully",
+            Duration = 3
+         })
+      end
+   end
+})
+
+local loadBtn = Tab:CreateButton({
+   Name = "Teleport to Saved Position",
+   Callback = function()
+      local char = player.Character
+      if char and char:FindFirstChild("HumanoidRootPart") then
+         if savedPosition then
+            char.HumanoidRootPart.CFrame = savedPosition
+            Rayfield:Notify({
+               Title = "Teleported",
+               Content = "Position restored successfully",
+               Duration = 3
+            })
+         else
+            Rayfield:Notify({
+               Title = "Error",
+               Content = "No saved position found",
+               Duration = 3
+            })
+         end
+      end
+   end
+})
+
+local noclipEnabled = false
+local noclipConnection
+
+function setCollision(char, state)
+   for _, part in ipairs(char:GetDescendants()) do
+      if part:IsA("BasePart") then
+         part.CanCollide = not state
+      end
+   end
+end
+
+function enableNoclip()
+   if noclipEnabled then return end
+   noclipEnabled = true
+   
+   noclipConnection = RunService.Stepped:Connect(function()
+      local char = player.Character
+      if not char then return end
+      setCollision(char, true)
+   end)
+end
+
+function disableNoclip()
+   noclipEnabled = false
+   if noclipConnection then
+      noclipConnection:Disconnect()
+      noclipConnection = nil
+   end
+   local char = player.Character
+   if char then
+      setCollision(char, false)
+   end
+end
+
+local jumpEnabled = false
+local originalJumpPower = 50
+
+function enableSuperJump()
+   if jumpEnabled then return end
+   jumpEnabled = true
+   
+   local char = player.Character
+   if char then
+      local humanoid = char:FindFirstChildOfClass("Humanoid")
+      if humanoid then
+         originalJumpPower = humanoid.JumpPower
+         humanoid.JumpPower = 100
+      end
+   end
+end
+
+function disableSuperJump()
+   jumpEnabled = false
+   
+   local char = player.Character
+   if char then
+      local humanoid = char:FindFirstChildOfClass("Humanoid")
+      if humanoid then
+         humanoid.JumpPower = originalJumpPower
+      end
+   end
+end
+
+local transparencyBackup = {}
+
+function applyInvisibility(char, enabled)
+   for _, obj in ipairs(char:GetDescendants()) do
+      if obj:IsA("BasePart") or obj:IsA("Decal") then
+         if enabled then
+            transparencyBackup[obj] = obj.Transparency
+            obj.Transparency = 1
+         else
+            if transparencyBackup[obj] ~= nil then
+               obj.Transparency = transparencyBackup[obj]
+            else
+               obj.Transparency = 0
+            end
+         end
+      elseif obj:IsA("Accessory") and obj.Handle then
+         local handle = obj.Handle
+         if enabled then
+            transparencyBackup[handle] = handle.Transparency
+            handle.Transparency = 1
+         else
+            if transparencyBackup[handle] ~= nil then
+               handle.Transparency = transparencyBackup[handle]
+            else
+               handle.Transparency = 0
+            end
+         end
+      end
+   end
+end
+
+player.CharacterAdded:Connect(function(char)
+   if jumpEnabled then
+      wait(1)
+      local humanoid = char:FindFirstChildOfClass("Humanoid")
+      if humanoid then
+         humanoid.JumpPower = 100
+      end
+   end
+end)
+
+player.CharacterRemoving:Connect(function()
+   if noclipEnabled then disableNoclip() end
+end)
